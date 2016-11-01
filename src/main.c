@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+// https://www.tutorialspoint.com/cprogramming/c_strings.htm
+
 int main() {
     char c = 'z';
     char x[5] = {'a', 'b', 'c', 'd', '\0'};
