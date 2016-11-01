@@ -2,6 +2,7 @@
 
 int main() {
     int x = 1;
-    printf("%X\n", &x);
+    printf("sizeof x: %d\n", sizeof(x));
+    printf("sizeof ref x: %d\n", sizeof(&x));
     return 0;
 }
