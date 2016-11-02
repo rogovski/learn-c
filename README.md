@@ -1,11 +1,4 @@
-```c
-#include <stdio.h>
-#include <bits.h>
+### About
 
-int main() {
-    printf("%s\n", "************");
-    printf("%s\n", bitStrRep(0));
-    return 0;
-}
-
-```
+This repository is a reference for c programming. The goal is to make each
+commit an example.
